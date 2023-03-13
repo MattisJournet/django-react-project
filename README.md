@@ -2,7 +2,7 @@
 # Django React Project 
 
 Voici le projet Django et React, pour React j'ai utilisé NextJS.
-J'ai utilisé bootstrap pour sa simplicié et pour avoir un peu de css.
+J'ai utilisé bootstrap pour sa simplicité et pour avoir un peu de css.
 Et enfin j'ai volontairement laissé la db.sqlite pour ne pas avoir à recréer des users a la main
 
 
